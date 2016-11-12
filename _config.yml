@@ -40,16 +40,22 @@ roles:
    end: Ongoing
    employer: Target Corporation
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Project Lead
+   start: March 2013
+   end: April 2015
+   employer: Target Corporation
+   description: - Managing co-ordination of the partners and working groups engaged in project work.<br/>Providing status reports to the project sponsor. Working closely with users to ensure the project meets business needs.<br/>
+Managing project issues and escalating where necessary. <br/> Talent Management.
+ - title: Team Lead
+   start: October 2010
+   end: Februrary 2013
+   employer: Target Corporation
+   description: Managing co-ordination of the partners and working groups engaged in project work. Managing project issues and escalating where necessary.<br/>
+ - title: Senior
+   start: October 2010
+   end: Februrary 2013
+   employer: Target Corporation
+   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases
 
 #Education is required
 education:
