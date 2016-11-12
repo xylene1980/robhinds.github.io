@@ -35,10 +35,10 @@ skills:
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Lead Engineer
+   start: 2015
    end: Ongoing
-   employer: Emerald Street Ventures
+   employer: Target Corporation
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
  - title: Senior Engineer
    start: 2012
@@ -53,38 +53,28 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: PG in Information Technology and Management
+   date: 2004
+   subject: Systems Management
+   school: Alliance Business School
+ - level: Bachelor of Engineering (B.E.)
+   date: 2001
+   subject: Computer Science
+   school: Tamilnadu College of Engineering affiliated to Bharathiar University
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/i/71e43fab4762c52438c0fba1d8752777
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Data Science Specialization
+      link: https://www.coursera.org/specializations/jhu-data-science
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/8e18e0a4f111e59ae9c776a3dd0526/jhu-logo-thumb.png?auto=format&dpr=2&w=100&h=100&fit=fill&bg=FFF
+      date: September 16, 2016
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - xylene1980/storm
+ - xylene1980/storm-starter
 
 #Stackoverflow flair is optional
 stackoverflow:
@@ -92,11 +82,11 @@ stackoverflow:
    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+#apps:
+# - name: Chuck the Quiz
+#   platform: Android
+#   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+#   description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
