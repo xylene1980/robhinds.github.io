@@ -40,6 +40,12 @@ roles:
    end: Ongoing
    employer: Target Corporation
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+- title: Project Lead
+   start: March 2013
+   end: April 2015
+   employer: Target Corporation
+   description: Managing co-ordination of the partners and working groups engaged in project work.<br/>Providing status reports to the project sponsor. Working closely with users to ensure the project meets business needs.<br/>
+   Managing project issues and escalating where necessary. <br/> Talent Management.
  
 #Education is required
 education:
