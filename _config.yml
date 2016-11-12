@@ -9,31 +9,29 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+# - title: Blog
+#   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: https://github.com/xylene1980
+# - title: StackOverflow
+#   url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://dzone.com/users/2808507/sunil1405.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/sunil-jacob-42b593a
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Tech Architecture
+ - IBM Mainframe (COBOL, JCL , DB2 )
+ - Unix, Linux
+ - R
+ - JAVA
+ - Amazon Web Services
+ - Git
+ - Agile Methodologies
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+#blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
