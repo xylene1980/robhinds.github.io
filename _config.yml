@@ -101,10 +101,4 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>IBM Mainframe</strong>: I am experienced in a IBM Mainframe platform. I have recently worked OS 390 and various tools like Expeditor, File-Aid.  Have developed a decommissioning framework for ease of future decommissions.Outstanding technical and analytical skills, with extensive knowledge of COBOL, UNIX, and IBM Mainframe Systems. <br/><br/>
-   <strong>Dev Ops</strong>: Experienced in maintaning SVN repositories for DevOps environment automation code and configuration using GIT. Used automated deployment oppurtunities using CHEF, Vagrant and Virtual Box. Knowledge of PowerShell scripts.<br/><br/>
-   <strong>Enterprise Virtualization</strong>: Migrate Windows servers from Hyper-V platform to VMWare platform. This invovled moving third party package application to virtual servers. This involved creation of application pool, creation of Windows services. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   <strong>Data Science</strong>: Pursuing Data Science course from Coursera, provided by John Hopkins University. Knowledge of R Programming, Exploratory Data Analysis. <br/><br/>
-
-   
+   <strong>IBM Mainframe</strong>: I am experienced in a IBM Mainframe platform. I have recently worked OS 390 and various tools like Expeditor, File-Aid.  Have developed a decommissioning framework for ease of future decommissions.Outstanding technical and analytical skills, with extensive knowledge of COBOL, UNIX, and IBM Mainframe Systems.<br/><br/>
