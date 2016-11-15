@@ -60,12 +60,6 @@ roles:
    end: 2007
    employer: ITC Infotech
    description: Worked on Healthcare Domain for Claim processing system. Full Life cycle application development and support, maintenance of application systems<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. <br/>
-- title: Associate IT Consultant
-   start: 2005
-   end: 2006
-   employer: Srishti Software
-   description: Analyze the Functional Design and documenting Interface requirements<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. <br/> Involved in development/enhancement of applications using JCL, VSAM, VS COBOL, DB2.
- 
 #Education is required
 education:
  - level: PG in Information Technology and Management
