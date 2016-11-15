@@ -54,8 +54,17 @@ roles:
    start: 2010
    end: 2013
    employer: Target Corporation
-   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases
- 
+   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases<br/>
+- title: Associate IT Consultant
+   start: 2006
+   end: 2007
+   employer: ITC Infotech
+   description: Worked on Healthcare Domain for Claim processing system. Full Life cycle application development and support, maintenance of application systems<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. <br/>
+- title: Associate IT Consultant
+   start: 2005
+   end: 2006
+   employer: Srishti Software
+   description: Analyze the Functional Design and documenting Interface requirements<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. <br/> Involved in development/enhancement of applications using JCL, VSAM, VS COBOL, DB2. <br/>
  
 #Education is required
 education:
