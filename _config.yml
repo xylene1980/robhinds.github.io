@@ -54,12 +54,9 @@ roles:
    start: 2010
    end: 2013
    employer: Target Corporation
-   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases.
-- title: Associate IT Consultant
-   start: 2006
-   end: 2007
-   employer: ITC Infotech
-   description: Worked on Healthcare Domain for Claim processing system. Full Life cycle application development and support, maintenance of application systems<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. 
+   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases
+ 
+ 
 #Education is required
 education:
  - level: PG in Information Technology and Management
@@ -104,5 +101,3 @@ additionalinfo: |
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Amazon Web Services, IBM DataStage, Control-M, Unix. <br/><br/>
     <strong>Enterprise Virtualization</strong>: Migrate Windows servers from Hyper-V platform to VMWare platform. This invovled moving third party package application to virtual servers. This involved creation of application pool, creation of Windows services. Setup servers for different purposes. [Development, Testing, Staging, Production]. Have performed automated deployments to the different servers, using CHEF cookbooks. <br/><br/>
     <strong>Data Science</strong>: Pursuing <b>Data Science</b> course from <b>Coursera</b>, provided by <b>John Hopkins University</b>. Knowledge of R Programming, Exploratory Data Analysis. <br/><br/>
-
-
