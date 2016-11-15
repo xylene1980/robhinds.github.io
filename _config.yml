@@ -54,12 +54,12 @@ roles:
    start: 2010
    end: 2013
    employer: Target Corporation
-   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases<br/>
+   description: Ensured compliance to quality process ( Internal reviews for design and code).Formulated a framework for decommissioning applications<br/> Plan, execute and monitor PROD release for deliverablesSupport of stability releases.
 - title: Associate IT Consultant
    start: 2006
    end: 2007
    employer: ITC Infotech
-   description: Worked on Healthcare Domain for Claim processing system. Full Life cycle application development and support, maintenance of application systems<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. <br/>
+   description: Worked on Healthcare Domain for Claim processing system. Full Life cycle application development and support, maintenance of application systems<br/> Involved in preparing test plans for Independent Unit testing and Work package testing. 
 #Education is required
 education:
  - level: PG in Information Technology and Management
