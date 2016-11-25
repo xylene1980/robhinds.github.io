@@ -43,8 +43,7 @@ roles:
    employer: Target Corporation
    description: Working on Modernization technologies to move legacy applications or retirement of servers
 Contributes to POC on new technologies. Architect, design and develop software applications and major functionalists.
-Involved in production support activities. Ensured the batch cycle gets completed in time. Also, fixed the issues within the time mentioned in Service Level Agreements (SLA). <br/> Implement architectural changes like moving from Hyper-V VM's to VMWare.Deployed vendor package by creating Application Pool in IIS. Have moved on-premise hosted application to vendor hosted SaaS solution.
- 
+Involved in production support activities. Ensured the batch cycle gets completed in time. Also, fixed the issues within the time mentioned in Service Level Agreements (SLA). Implement architectural changes like moving from Hyper-V machines to VMWare VM. 
  - title: Project Lead
    start: 2013
    end: 2015
