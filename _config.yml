@@ -108,3 +108,5 @@ additionalinfo: |
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Amazon Web Services, IBM DataStage, Control-M, Unix. <br/><br/>
     <strong>Enterprise Virtualization</strong>: Have migrated Windows servers from Hyper-V platform to VMWare platform. This invovled moving third party package application to virtual servers. This involved creation of application pool, creation of Windows services. Setup servers for different purposes. [Development, Testing, Staging, Production]. Have performed automated deployments to the different servers, using CHEF cookbooks. <br/><br/>
     <strong>Data Science</strong>: Pursuing <b>Data Science</b> course from <b>Coursera</b>, provided by <b>John Hopkins University</b>. Knowledge of R Programming, Exploratory Data Analysis. <br/><br/>
+
+theme: jekyll-theme-leap-day
