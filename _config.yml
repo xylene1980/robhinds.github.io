@@ -24,11 +24,10 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - IBM Mainframe (COBOL, JCL , DB2 )
+ - Terraform
  - Unix, Linux
- - R
- - JAVA
- - Amazon Web Services
+ - JAVA, Spring Boot, RESTAPI
+ - CHEF, ELK Stack, Grafana
  - Git
  - Agile Methodologies
 
