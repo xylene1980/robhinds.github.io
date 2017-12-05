@@ -41,7 +41,7 @@ roles:
    start: 2015
    end: Ongoing
    employer: Target Corporation
-   description: Working on Modernization technologies to move legacy applications or retirement of servers. Contributes to POC on new technologies. Architect, design and develop software applications and major functionalities. Experience with a range of cutting edge technologies and techniques including Amazon Web Services, Data Science.
+   description: Working on Modernization technologies to move legacy applications or retirement of servers. Contributes to             POC on new technologies. Architect, design and develop software applications and major functionalities. Use of CHEF to manage IT infrastructure for Vertex through cook books. Manage the Open Stack cloud environment using CHEF. Create and maintain CI/CD pipeline using Github and Drone tool.Create infrastructure in Open Stack v3.0 from scratch, using Infrastructure as a Code tool called Terraform
  - title: Project Lead
    start: 2013
    end: 2015
